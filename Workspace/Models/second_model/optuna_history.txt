@@ -1,0 +1,1 @@
+{"timestamp": "2026-03-07 10:22:34", "best_mae": 4.259307637654152, "params": {"n_time_bins": 2, "n_est_bt": 22, "max_depth_bt": 6, "n_est_rt": 1000, "max_depth_rt": 3, "min_child_weight": 50, "huber_slope": 9.738321141803802, "base_score_multiplier": 0.47551045682597215, "early_stopping": 200, "sizes": [425, 115]}}
