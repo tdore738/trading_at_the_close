@@ -1,0 +1,14 @@
+STOCK NUMBER: 168 
+{"timestamp": "2026-03-07 11:41:46", "best_mae": 5.018268032411349, "params": {"n_time_bins": 3, "n_est_bt": 12, "max_depth_bt": 5, "n_est_rt": 1300, "max_depth_rt": 1, "min_child_weight": 20, "huber_slope": 11.103080839753172, "base_score_multiplier": 2.233323072487738, "early_stopping": 10, "sizes": [505, 15, 20]}}
+STOCK NUMBER: 13 
+{"timestamp": "2026-03-07 11:52:28", "best_mae": 6.733777638782913, "params": {"n_time_bins": 2, "n_est_bt": 11, "max_depth_bt": 6, "n_est_rt": 2800, "max_depth_rt": 3, "min_child_weight": 50, "huber_slope": 11.303775468237871, "base_score_multiplier": 2.0298712490587, "early_stopping": 180, "sizes": [430, 110]}}
+STOCK NUMBER: 13 
+{"timestamp": "2026-03-07 12:49:27", "best_mae": 6.725320550441411, "params": {"n_time_bins": 2, "n_est_bt": 7, "max_depth_bt": 6, "n_est_rt": 4300, "max_depth_rt": 3, "min_child_weight": 40, "huber_slope": 8.061761147610678, "base_score_multiplier": 1.6625931719160443, "early_stopping": 150, "sizes": [455, 85]}}
+STOCK NUMBER: 13 
+{"timestamp": "2026-03-07 13:23:52", "best_mae": 6.737905026405702, "params": {"n_time_bins": 2, "n_est_bt": 23, "max_depth_bt": 5, "n_est_rt": 1800, "max_depth_rt": 3, "min_child_weight": 20, "huber_slope": 9.321181287692694, "base_score_multiplier": 0.07291602863846047, "early_stopping": 100, "sizes": [525, 15]}}
+STOCK NUMBER: 13 
+{"timestamp": "2026-03-07 13:33:06", "best_mae": 6.75144188285816, "params": {"n_time_bins": 3, "n_est_bt": 48, "max_depth_bt": 4, "n_est_rt": 2650, "max_depth_rt": 4, "min_child_weight": 20, "huber_slope": 8.613856948149227, "base_score_multiplier": 0.5463610888282755, "early_stopping": 10, "sizes": [510, 15, 15]}}
+STOCK NUMBER: 13 
+{"timestamp": "2026-03-07 13:50:02", "best_mae": 6.755483429106361, "params": {"n_time_bins": 2, "n_est_bt": 39, "max_depth_bt": 8, "n_est_rt": 3450, "max_depth_rt": 3, "min_child_weight": 20, "huber_slope": 6.65043869157703, "base_score_multiplier": 2.818696283934091, "early_stopping": 70, "sizes": [500, 40]}}
+STOCK NUMBER: 13 
+{"timestamp": "2026-03-07 14:07:02", "best_mae": 5.773167387520361, "params": {"n_time_bins": 4, "n_est_bt": 59, "max_depth_bt": 5, "n_est_rt": 3100, "max_depth_rt": 3, "min_child_weight": 20, "huber_slope": 9.321246322523683, "base_score_multiplier": 0.22473786302219123, "early_stopping": 120, "sizes": [395, 60, 40, 45]}}
