@@ -1,0 +1,394 @@
+STOCK NUMBER: 1 
+{"STOCK": 1, "best_mae": 8.799363349792184, "params": {"n_time_bins": 2, "n_est_bt": 49, "max_depth_bt": 4, "n_est_rt": 2600, "max_depth_rt": 4, "min_child_weight": 50, "huber_slope": 9.419988314035365, "base_score_multiplier": 0.039698609433742156, "early_stopping": 50, "sizes": [500, 40]}}
+STOCK NUMBER: 2 
+{"STOCK": 2, "best_mae": 8.750771007079635, "params": {"n_time_bins": 2, "n_est_bt": 18, "max_depth_bt": 6, "n_est_rt": 3400, "max_depth_rt": 3, "min_child_weight": 20, "huber_slope": 9.002202477854086, "base_score_multiplier": 0.8855790775752898, "early_stopping": 160, "sizes": [500, 40]}}
+STOCK NUMBER: 3 
+{"STOCK": 3, "best_mae": 4.444771357646044, "params": {"n_time_bins": 2, "n_est_bt": 56, "max_depth_bt": 3, "n_est_rt": 4600, "max_depth_rt": 3, "min_child_weight": 180, "huber_slope": 8.03113498262961, "base_score_multiplier": 2.718161834190684, "early_stopping": 60, "sizes": [415, 125]}}
+STOCK NUMBER: 4 
+{"STOCK": 4, "best_mae": 4.877442451768289, "params": {"n_time_bins": 2, "n_est_bt": 25, "max_depth_bt": 5, "n_est_rt": 3300, "max_depth_rt": 4, "min_child_weight": 60, "huber_slope": 5.790688182032056, "base_score_multiplier": 0.7249311360959829, "early_stopping": 160, "sizes": [510, 30]}}
+STOCK NUMBER: 5 
+{"STOCK": 5, "best_mae": 8.331026109902782, "params": {"n_time_bins": 2, "n_est_bt": 5, "max_depth_bt": 6, "n_est_rt": 1250, "max_depth_rt": 4, "min_child_weight": 50, "huber_slope": 5.471103786475449, "base_score_multiplier": 2.8594206070423303, "early_stopping": 50, "sizes": [235, 305]}}
+STOCK NUMBER: 6 
+{"STOCK": 6, "best_mae": 7.121016178081641, "params": {"n_time_bins": 2, "n_est_bt": 22, "max_depth_bt": 5, "n_est_rt": 4050, "max_depth_rt": 9, "min_child_weight": 30, "huber_slope": 9.4429874704621, "base_score_multiplier": 0.8878867874952784, "early_stopping": 60, "sizes": [460, 80]}}
+STOCK NUMBER: 7 
+{"STOCK": 7, "best_mae": 6.32290744304796, "params": {"n_time_bins": 2, "n_est_bt": 7, "max_depth_bt": 4, "n_est_rt": 2150, "max_depth_rt": 7, "min_child_weight": 70, "huber_slope": 5.987609409183114, "base_score_multiplier": 2.91633771200963, "early_stopping": 150, "sizes": [480, 60]}}
+STOCK NUMBER: 8 
+{"STOCK": 8, "best_mae": 6.306821877512742, "params": {"n_time_bins": 3, "n_est_bt": 13, "max_depth_bt": 8, "n_est_rt": 1350, "max_depth_rt": 3, "min_child_weight": 80, "huber_slope": 8.893739684331441, "base_score_multiplier": 0.8249344684990004, "early_stopping": 180, "sizes": [190, 295, 55]}}
+STOCK NUMBER: 9 
+{"STOCK": 9, "best_mae": 6.464054435675133, "params": {"n_time_bins": 2, "n_est_bt": 42, "max_depth_bt": 4, "n_est_rt": 2400, "max_depth_rt": 6, "min_child_weight": 140, "huber_slope": 9.445792115485064, "base_score_multiplier": 2.3838616508543042, "early_stopping": 170, "sizes": [510, 30]}}
+STOCK NUMBER: 10 
+{"STOCK": 10, "best_mae": 6.058774728383382, "params": {"n_time_bins": 2, "n_est_bt": 28, "max_depth_bt": 8, "n_est_rt": 1850, "max_depth_rt": 3, "min_child_weight": 30, "huber_slope": 6.163735766365359, "base_score_multiplier": 0.5914034092376702, "early_stopping": 190, "sizes": [510, 30]}}
+STOCK NUMBER: 11 
+{"STOCK": 11, "best_mae": 10.047260375381597, "params": {"n_time_bins": 2, "n_est_bt": 12, "max_depth_bt": 8, "n_est_rt": 3100, "max_depth_rt": 4, "min_child_weight": 20, "huber_slope": 9.403690243780364, "base_score_multiplier": 1.998721570795163, "early_stopping": 60, "sizes": [510, 30]}}
+STOCK NUMBER: 12 
+{"STOCK": 12, "best_mae": 5.491112518095396, "params": {"n_time_bins": 4, "n_est_bt": 6, "max_depth_bt": 7, "n_est_rt": 3850, "max_depth_rt": 3, "min_child_weight": 30, "huber_slope": 3.025073025362232, "base_score_multiplier": 0.6568353448248412, "early_stopping": 70, "sizes": [420, 40, 35, 45]}}
+STOCK NUMBER: 13 
+{"STOCK": 13, "best_mae": 5.803337855907548, "params": {"n_time_bins": 8, "n_est_bt": 34, "max_depth_bt": 3, "n_est_rt": 3600, "max_depth_rt": 10, "min_child_weight": 130, "huber_slope": 9.66874881526887, "base_score_multiplier": 1.2716631608997742, "early_stopping": 190, "sizes": [100, 195, 40, 30, 40, 50, 50, 35]}}
+STOCK NUMBER: 14 
+{"STOCK": 14, "best_mae": 5.437597629662897, "params": {"n_time_bins": 2, "n_est_bt": 28, "max_depth_bt": 5, "n_est_rt": 4800, "max_depth_rt": 3, "min_child_weight": 110, "huber_slope": 9.224621271000798, "base_score_multiplier": 0.5702250574146456, "early_stopping": 70, "sizes": [505, 35]}}
+STOCK NUMBER: 15 
+{"STOCK": 15, "best_mae": 6.399212007656714, "params": {"n_time_bins": 2, "n_est_bt": 24, "max_depth_bt": 8, "n_est_rt": 3550, "max_depth_rt": 4, "min_child_weight": 110, "huber_slope": 9.007099435339926, "base_score_multiplier": 0.17828276344351968, "early_stopping": 120, "sizes": [475, 65]}}
+STOCK NUMBER: 16 
+{"STOCK": 16, "best_mae": 7.461564234209963, "params": {"n_time_bins": 2, "n_est_bt": 12, "max_depth_bt": 6, "n_est_rt": 2250, "max_depth_rt": 7, "min_child_weight": 60, "huber_slope": 8.532895561906754, "base_score_multiplier": 0.5884997525159885, "early_stopping": 60, "sizes": [510, 30]}}
+STOCK NUMBER: 17 
+{"STOCK": 17, "best_mae": 6.516048169841853, "params": {"n_time_bins": 2, "n_est_bt": 33, "max_depth_bt": 7, "n_est_rt": 5000, "max_depth_rt": 4, "min_child_weight": 30, "huber_slope": 7.63250587469983, "base_score_multiplier": 1.680611196556323, "early_stopping": 40, "sizes": [495, 45]}}
+STOCK NUMBER: 18 
+{"STOCK": 18, "best_mae": 9.217083254578714, "params": {"n_time_bins": 2, "n_est_bt": 23, "max_depth_bt": 7, "n_est_rt": 3200, "max_depth_rt": 7, "min_child_weight": 50, "huber_slope": 2.3594235703011934, "base_score_multiplier": 1.7619887238901846, "early_stopping": 50, "sizes": [490, 50]}}
+STOCK NUMBER: 19 
+{"STOCK": 19, "best_mae": 8.683052410610793, "params": {"n_time_bins": 2, "n_est_bt": 26, "max_depth_bt": 5, "n_est_rt": 450, "max_depth_rt": 10, "min_child_weight": 80, "huber_slope": 6.265379358147344, "base_score_multiplier": 1.5870757142249068, "early_stopping": 80, "sizes": [450, 90]}}
+STOCK NUMBER: 20 
+{"STOCK": 20, "best_mae": 6.81832171443215, "params": {"n_time_bins": 2, "n_est_bt": 30, "max_depth_bt": 5, "n_est_rt": 2200, "max_depth_rt": 4, "min_child_weight": 50, "huber_slope": 1.8625083892196157, "base_score_multiplier": 1.9815974707201318, "early_stopping": 70, "sizes": [175, 365]}}
+STOCK NUMBER: 21 
+{"STOCK": 21, "best_mae": 6.040399197885943, "params": {"n_time_bins": 2, "n_est_bt": 31, "max_depth_bt": 8, "n_est_rt": 2500, "max_depth_rt": 6, "min_child_weight": 100, "huber_slope": 9.192697433049013, "base_score_multiplier": 1.1470663271055879, "early_stopping": 140, "sizes": [510, 30]}}
+STOCK NUMBER: 22 
+{"STOCK": 22, "best_mae": 7.2686957294578916, "params": {"n_time_bins": 2, "n_est_bt": 48, "max_depth_bt": 3, "n_est_rt": 800, "max_depth_rt": 9, "min_child_weight": 140, "huber_slope": 4.383432133257116, "base_score_multiplier": 2.598481950715142, "early_stopping": 120, "sizes": [495, 45]}}
+STOCK NUMBER: 23 
+{"STOCK": 23, "best_mae": 5.921853589617342, "params": {"n_time_bins": 8, "n_est_bt": 54, "max_depth_bt": 7, "n_est_rt": 4850, "max_depth_rt": 6, "min_child_weight": 150, "huber_slope": 8.915393654849694, "base_score_multiplier": 1.4172944174493114, "early_stopping": 60, "sizes": [245, 95, 40, 35, 30, 30, 35, 30]}}
+STOCK NUMBER: 24 
+{"STOCK": 24, "best_mae": 5.511310419976378, "params": {"n_time_bins": 2, "n_est_bt": 44, "max_depth_bt": 7, "n_est_rt": 1500, "max_depth_rt": 4, "min_child_weight": 110, "huber_slope": 7.139216644764491, "base_score_multiplier": 0.704160187887919, "early_stopping": 130, "sizes": [195, 345]}}
+STOCK NUMBER: 25 
+{"STOCK": 25, "best_mae": 6.070567819804684, "params": {"n_time_bins": 2, "n_est_bt": 37, "max_depth_bt": 3, "n_est_rt": 3550, "max_depth_rt": 3, "min_child_weight": 60, "huber_slope": 9.893698010959705, "base_score_multiplier": 0.0581492037241875, "early_stopping": 130, "sizes": [500, 40]}}
+STOCK NUMBER: 26 
+{"STOCK": 26, "best_mae": 8.207204939957363, "params": {"n_time_bins": 2, "n_est_bt": 22, "max_depth_bt": 3, "n_est_rt": 3150, "max_depth_rt": 5, "min_child_weight": 30, "huber_slope": 9.773568862097177, "base_score_multiplier": 2.8338038655498288, "early_stopping": 130, "sizes": [480, 60]}}
+STOCK NUMBER: 27 
+{"STOCK": 27, "best_mae": 6.540962916408437, "params": {"n_time_bins": 2, "n_est_bt": 30, "max_depth_bt": 4, "n_est_rt": 4200, "max_depth_rt": 7, "min_child_weight": 200, "huber_slope": 9.194924618132156, "base_score_multiplier": 2.582840818833374, "early_stopping": 130, "sizes": [410, 130]}}
+STOCK NUMBER: 28 
+{"STOCK": 28, "best_mae": 6.1394013194750405, "params": {"n_time_bins": 2, "n_est_bt": 52, "max_depth_bt": 6, "n_est_rt": 3600, "max_depth_rt": 4, "min_child_weight": 180, "huber_slope": 9.725839412153165, "base_score_multiplier": 2.3147215559493044, "early_stopping": 60, "sizes": [440, 100]}}
+STOCK NUMBER: 29 
+{"STOCK": 29, "best_mae": 5.8226666999886945, "params": {"n_time_bins": 4, "n_est_bt": 18, "max_depth_bt": 3, "n_est_rt": 4650, "max_depth_rt": 3, "min_child_weight": 30, "huber_slope": 8.53388470792737, "base_score_multiplier": 2.9879298146990805, "early_stopping": 30, "sizes": [350, 70, 70, 50]}}
+STOCK NUMBER: 30 
+{"STOCK": 30, "best_mae": 5.893613774258418, "params": {"n_time_bins": 2, "n_est_bt": 9, "max_depth_bt": 4, "n_est_rt": 900, "max_depth_rt": 5, "min_child_weight": 170, "huber_slope": 3.6110081761427697, "base_score_multiplier": 0.3919245279213185, "early_stopping": 50, "sizes": [190, 350]}}
+STOCK NUMBER: 31 
+{"STOCK": 31, "best_mae": 23.842539600442674, "params": {"n_time_bins": 2, "n_est_bt": 21, "max_depth_bt": 3, "n_est_rt": 1150, "max_depth_rt": 8, "min_child_weight": 110, "huber_slope": 4.046379601581652, "base_score_multiplier": 0.6740992580991864, "early_stopping": 170, "sizes": [510, 30]}}
+STOCK NUMBER: 32 
+{"STOCK": 32, "best_mae": 5.412323967525216, "params": {"n_time_bins": 2, "n_est_bt": 46, "max_depth_bt": 4, "n_est_rt": 1300, "max_depth_rt": 4, "min_child_weight": 20, "huber_slope": 4.90880037525925, "base_score_multiplier": 0.945511354372121, "early_stopping": 140, "sizes": [505, 35]}}
+STOCK NUMBER: 33 
+{"STOCK": 33, "best_mae": 9.210761260644237, "params": {"n_time_bins": 2, "n_est_bt": 26, "max_depth_bt": 4, "n_est_rt": 3100, "max_depth_rt": 3, "min_child_weight": 70, "huber_slope": 8.70427478555904, "base_score_multiplier": 0.8298305839212683, "early_stopping": 50, "sizes": [510, 30]}}
+STOCK NUMBER: 34 
+{"STOCK": 34, "best_mae": 6.270989544088198, "params": {"n_time_bins": 3, "n_est_bt": 36, "max_depth_bt": 8, "n_est_rt": 4300, "max_depth_rt": 3, "min_child_weight": 150, "huber_slope": 9.337225175329964, "base_score_multiplier": 0.97757268002939, "early_stopping": 60, "sizes": [350, 115, 75]}}
+STOCK NUMBER: 35 
+{"STOCK": 35, "best_mae": 5.38877472302892, "params": {"n_time_bins": 2, "n_est_bt": 19, "max_depth_bt": 3, "n_est_rt": 3500, "max_depth_rt": 4, "min_child_weight": 150, "huber_slope": 8.439755114272785, "base_score_multiplier": 1.3242689325303931, "early_stopping": 50, "sizes": [490, 50]}}
+STOCK NUMBER: 36 
+{"STOCK": 36, "best_mae": 6.702038954085653, "params": {"n_time_bins": 2, "n_est_bt": 32, "max_depth_bt": 6, "n_est_rt": 3200, "max_depth_rt": 6, "min_child_weight": 50, "huber_slope": 6.855475979407911, "base_score_multiplier": 0.746617677753936, "early_stopping": 90, "sizes": [510, 30]}}
+STOCK NUMBER: 37 
+{"STOCK": 37, "best_mae": 4.922463962770661, "params": {"n_time_bins": 2, "n_est_bt": 17, "max_depth_bt": 4, "n_est_rt": 2450, "max_depth_rt": 6, "min_child_weight": 170, "huber_slope": 9.704259951213803, "base_score_multiplier": 2.300397572417366, "early_stopping": 70, "sizes": [510, 30]}}
+STOCK NUMBER: 38 
+{"STOCK": 38, "best_mae": 5.581335248974673, "params": {"n_time_bins": 2, "n_est_bt": 12, "max_depth_bt": 6, "n_est_rt": 3450, "max_depth_rt": 5, "min_child_weight": 30, "huber_slope": 9.51899619812393, "base_score_multiplier": 1.2934012757142934, "early_stopping": 200, "sizes": [510, 30]}}
+STOCK NUMBER: 39 
+{"STOCK": 39, "best_mae": 5.412015966575803, "params": {"n_time_bins": 2, "n_est_bt": 54, "max_depth_bt": 3, "n_est_rt": 4250, "max_depth_rt": 3, "min_child_weight": 200, "huber_slope": 8.00030285434064, "base_score_multiplier": 2.586187548573888, "early_stopping": 160, "sizes": [485, 55]}}
+STOCK NUMBER: 40 
+{"STOCK": 40, "best_mae": 7.1946277615011445, "params": {"n_time_bins": 2, "n_est_bt": 44, "max_depth_bt": 7, "n_est_rt": 900, "max_depth_rt": 7, "min_child_weight": 40, "huber_slope": 4.488492823322652, "base_score_multiplier": 1.1318245151214639, "early_stopping": 90, "sizes": [495, 45]}}
+STOCK NUMBER: 41 
+{"STOCK": 41, "best_mae": 5.821952795666514, "params": {"n_time_bins": 4, "n_est_bt": 59, "max_depth_bt": 4, "n_est_rt": 550, "max_depth_rt": 3, "min_child_weight": 20, "huber_slope": 9.711104789176648, "base_score_multiplier": 0.25715933180366146, "early_stopping": 170, "sizes": [400, 75, 30, 35]}}
+STOCK NUMBER: 42 
+{"STOCK": 42, "best_mae": 9.80616869496035, "params": {"n_time_bins": 2, "n_est_bt": 52, "max_depth_bt": 6, "n_est_rt": 1150, "max_depth_rt": 4, "min_child_weight": 170, "huber_slope": 9.530279507815417, "base_score_multiplier": 0.021154467172909697, "early_stopping": 120, "sizes": [510, 30]}}
+STOCK NUMBER: 43 
+{"STOCK": 43, "best_mae": 7.156043163614186, "params": {"n_time_bins": 2, "n_est_bt": 20, "max_depth_bt": 6, "n_est_rt": 4600, "max_depth_rt": 10, "min_child_weight": 30, "huber_slope": 6.168761400694999, "base_score_multiplier": 0.5341421154035659, "early_stopping": 20, "sizes": [510, 30]}}
+STOCK NUMBER: 44 
+{"STOCK": 44, "best_mae": 6.029134597054306, "params": {"n_time_bins": 5, "n_est_bt": 17, "max_depth_bt": 8, "n_est_rt": 800, "max_depth_rt": 3, "min_child_weight": 30, "huber_slope": 5.992297941699288, "base_score_multiplier": 0.36768705917215844, "early_stopping": 80, "sizes": [390, 35, 30, 50, 35]}}
+STOCK NUMBER: 45 
+{"STOCK": 45, "best_mae": 3.9502655461927345, "params": {"n_time_bins": 3, "n_est_bt": 34, "max_depth_bt": 3, "n_est_rt": 2200, "max_depth_rt": 8, "min_child_weight": 130, "huber_slope": 6.565793297502673, "base_score_multiplier": 0.3789476939411078, "early_stopping": 200, "sizes": [425, 50, 65]}}
+STOCK NUMBER: 46 
+{"STOCK": 46, "best_mae": 6.541306847727224, "params": {"n_time_bins": 2, "n_est_bt": 11, "max_depth_bt": 5, "n_est_rt": 700, "max_depth_rt": 7, "min_child_weight": 40, "huber_slope": 8.72255077256986, "base_score_multiplier": 0.7159420836276493, "early_stopping": 190, "sizes": [510, 30]}}
+STOCK NUMBER: 47 
+{"STOCK": 47, "best_mae": 6.539796000802848, "params": {"n_time_bins": 5, "n_est_bt": 13, "max_depth_bt": 3, "n_est_rt": 1350, "max_depth_rt": 3, "min_child_weight": 40, "huber_slope": 9.525604102884511, "base_score_multiplier": 0.5579733210822417, "early_stopping": 180, "sizes": [225, 100, 130, 45, 40]}}
+STOCK NUMBER: 48 
+{"STOCK": 48, "best_mae": 6.098921297918093, "params": {"n_time_bins": 2, "n_est_bt": 42, "max_depth_bt": 7, "n_est_rt": 4050, "max_depth_rt": 3, "min_child_weight": 70, "huber_slope": 9.507467621937732, "base_score_multiplier": 0.5307100346584568, "early_stopping": 90, "sizes": [510, 30]}}
+STOCK NUMBER: 49 
+{"STOCK": 49, "best_mae": 8.523861790273077, "params": {"n_time_bins": 2, "n_est_bt": 17, "max_depth_bt": 8, "n_est_rt": 4400, "max_depth_rt": 7, "min_child_weight": 110, "huber_slope": 7.655214471836285, "base_score_multiplier": 1.9765399254366176, "early_stopping": 150, "sizes": [505, 35]}}
+STOCK NUMBER: 50 
+{"STOCK": 50, "best_mae": 7.415972858597593, "params": {"n_time_bins": 2, "n_est_bt": 56, "max_depth_bt": 7, "n_est_rt": 3900, "max_depth_rt": 3, "min_child_weight": 170, "huber_slope": 9.527395915296445, "base_score_multiplier": 2.4299985790025627, "early_stopping": 30, "sizes": [240, 300]}}
+STOCK NUMBER: 51 
+{"STOCK": 51, "best_mae": 7.9211628215177985, "params": {"n_time_bins": 2, "n_est_bt": 57, "max_depth_bt": 6, "n_est_rt": 3800, "max_depth_rt": 3, "min_child_weight": 30, "huber_slope": 3.0300418142215295, "base_score_multiplier": 2.2967495987589492, "early_stopping": 40, "sizes": [510, 30]}}
+STOCK NUMBER: 52 
+{"STOCK": 52, "best_mae": 6.228509984746064, "params": {"n_time_bins": 4, "n_est_bt": 50, "max_depth_bt": 7, "n_est_rt": 4900, "max_depth_rt": 3, "min_child_weight": 30, "huber_slope": 7.588641060825175, "base_score_multiplier": 1.5887054925917212, "early_stopping": 150, "sizes": [140, 240, 110, 50]}}
+STOCK NUMBER: 53 
+{"STOCK": 53, "best_mae": 5.147679783735935, "params": {"n_time_bins": 2, "n_est_bt": 16, "max_depth_bt": 7, "n_est_rt": 2100, "max_depth_rt": 7, "min_child_weight": 70, "huber_slope": 4.7426993203023375, "base_score_multiplier": 0.70479887059501, "early_stopping": 170, "sizes": [490, 50]}}
+STOCK NUMBER: 54 
+{"STOCK": 54, "best_mae": 5.710069147169958, "params": {"n_time_bins": 3, "n_est_bt": 29, "max_depth_bt": 5, "n_est_rt": 3800, "max_depth_rt": 3, "min_child_weight": 50, "huber_slope": 3.1641670201691303, "base_score_multiplier": 0.25799140465766784, "early_stopping": 170, "sizes": [475, 30, 35]}}
+STOCK NUMBER: 55 
+{"STOCK": 55, "best_mae": 5.096809112787915, "params": {"n_time_bins": 2, "n_est_bt": 8, "max_depth_bt": 4, "n_est_rt": 3350, "max_depth_rt": 3, "min_child_weight": 100, "huber_slope": 7.587336386674136, "base_score_multiplier": 2.2187807202396375, "early_stopping": 160, "sizes": [505, 35]}}
+STOCK NUMBER: 56 
+{"STOCK": 56, "best_mae": 7.364728191425937, "params": {"n_time_bins": 5, "n_est_bt": 58, "max_depth_bt": 8, "n_est_rt": 4450, "max_depth_rt": 3, "min_child_weight": 40, "huber_slope": 7.633933365592619, "base_score_multiplier": 2.157087909428899, "early_stopping": 110, "sizes": [420, 30, 30, 30, 30]}}
+STOCK NUMBER: 57 
+{"STOCK": 57, "best_mae": 6.6006864869142845, "params": {"n_time_bins": 3, "n_est_bt": 34, "max_depth_bt": 6, "n_est_rt": 1650, "max_depth_rt": 8, "min_child_weight": 50, "huber_slope": 3.3655167836777102, "base_score_multiplier": 2.5937303242041274, "early_stopping": 120, "sizes": [430, 45, 65]}}
+STOCK NUMBER: 58 
+{"STOCK": 58, "best_mae": 5.871113359981626, "params": {"n_time_bins": 2, "n_est_bt": 27, "max_depth_bt": 8, "n_est_rt": 4900, "max_depth_rt": 8, "min_child_weight": 120, "huber_slope": 8.290708835262155, "base_score_multiplier": 1.1697343299139074, "early_stopping": 100, "sizes": [500, 40]}}
+STOCK NUMBER: 59 
+{"STOCK": 59, "best_mae": 7.616054080912689, "params": {"n_time_bins": 2, "n_est_bt": 5, "max_depth_bt": 7, "n_est_rt": 3700, "max_depth_rt": 3, "min_child_weight": 90, "huber_slope": 6.099587467717632, "base_score_multiplier": 1.9332318826555988, "early_stopping": 30, "sizes": [495, 45]}}
+STOCK NUMBER: 60 
+{"STOCK": 60, "best_mae": 6.140604619319803, "params": {"n_time_bins": 2, "n_est_bt": 50, "max_depth_bt": 4, "n_est_rt": 1200, "max_depth_rt": 4, "min_child_weight": 40, "huber_slope": 8.220695942512716, "base_score_multiplier": 0.9882566389586687, "early_stopping": 170, "sizes": [500, 40]}}
+STOCK NUMBER: 61 
+{"STOCK": 61, "best_mae": 10.92766221098561, "params": {"n_time_bins": 5, "n_est_bt": 11, "max_depth_bt": 6, "n_est_rt": 1050, "max_depth_rt": 7, "min_child_weight": 20, "huber_slope": 4.770169489960567, "base_score_multiplier": 2.6872326676539395, "early_stopping": 10, "sizes": [355, 45, 65, 40, 35]}}
+STOCK NUMBER: 62 
+{"STOCK": 62, "best_mae": 9.587565057463717, "params": {"n_time_bins": 3, "n_est_bt": 22, "max_depth_bt": 3, "n_est_rt": 2550, "max_depth_rt": 3, "min_child_weight": 80, "huber_slope": 9.428190556469316, "base_score_multiplier": 1.8524573362648245, "early_stopping": 110, "sizes": [475, 35, 30]}}
+STOCK NUMBER: 63 
+{"STOCK": 63, "best_mae": 5.550560146234725, "params": {"n_time_bins": 3, "n_est_bt": 48, "max_depth_bt": 7, "n_est_rt": 4700, "max_depth_rt": 7, "min_child_weight": 140, "huber_slope": 7.987631146247298, "base_score_multiplier": 2.745658974789527, "early_stopping": 170, "sizes": [380, 95, 65]}}
+STOCK NUMBER: 64 
+{"STOCK": 64, "best_mae": 8.164022784099336, "params": {"n_time_bins": 2, "n_est_bt": 38, "max_depth_bt": 5, "n_est_rt": 2500, "max_depth_rt": 3, "min_child_weight": 30, "huber_slope": 9.723396311719519, "base_score_multiplier": 1.3887469530728382, "early_stopping": 100, "sizes": [510, 30]}}
+STOCK NUMBER: 65 
+{"STOCK": 65, "best_mae": 5.916304716912351, "params": {"n_time_bins": 3, "n_est_bt": 37, "max_depth_bt": 5, "n_est_rt": 2600, "max_depth_rt": 5, "min_child_weight": 70, "huber_slope": 8.754548744307472, "base_score_multiplier": 2.730991958938238, "early_stopping": 20, "sizes": [480, 30, 30]}}
+STOCK NUMBER: 66 
+{"STOCK": 66, "best_mae": 6.542789188577844, "params": {"n_time_bins": 4, "n_est_bt": 32, "max_depth_bt": 4, "n_est_rt": 3450, "max_depth_rt": 3, "min_child_weight": 50, "huber_slope": 9.876000603824458, "base_score_multiplier": 0.6841419642123274, "early_stopping": 170, "sizes": [425, 35, 40, 40]}}
+STOCK NUMBER: 67 
+{"STOCK": 67, "best_mae": 6.401336128501144, "params": {"n_time_bins": 3, "n_est_bt": 23, "max_depth_bt": 8, "n_est_rt": 2200, "max_depth_rt": 3, "min_child_weight": 100, "huber_slope": 9.184835977639825, "base_score_multiplier": 0.17163087265621024, "early_stopping": 100, "sizes": [185, 40, 315]}}
+STOCK NUMBER: 68 
+{"STOCK": 68, "best_mae": 5.380487391171959, "params": {"n_time_bins": 2, "n_est_bt": 14, "max_depth_bt": 5, "n_est_rt": 4400, "max_depth_rt": 3, "min_child_weight": 70, "huber_slope": 7.441648250487556, "base_score_multiplier": 0.7356420553342999, "early_stopping": 140, "sizes": [495, 45]}}
+STOCK NUMBER: 69 
+{"STOCK": 69, "best_mae": 9.345931021818286, "params": {"n_time_bins": 3, "n_est_bt": 8, "max_depth_bt": 6, "n_est_rt": 3150, "max_depth_rt": 4, "min_child_weight": 20, "huber_slope": 4.1133304902482095, "base_score_multiplier": 2.173174848757471, "early_stopping": 120, "sizes": [480, 30, 30]}}
+STOCK NUMBER: 70 
+{"STOCK": 70, "best_mae": 11.78324863027601, "params": {"n_time_bins": 7, "n_est_bt": 41, "max_depth_bt": 7, "n_est_rt": 4950, "max_depth_rt": 4, "min_child_weight": 20, "huber_slope": 5.7532057353372625, "base_score_multiplier": 0.800109384702791, "early_stopping": 190, "sizes": [235, 125, 35, 45, 30, 40, 30]}}
+STOCK NUMBER: 71 
+{"STOCK": 71, "best_mae": 6.968878064966694, "params": {"n_time_bins": 3, "n_est_bt": 9, "max_depth_bt": 7, "n_est_rt": 1700, "max_depth_rt": 5, "min_child_weight": 40, "huber_slope": 4.551192772357364, "base_score_multiplier": 2.1459851684550983, "early_stopping": 40, "sizes": [470, 35, 35]}}
+STOCK NUMBER: 72 
+{"STOCK": 72, "best_mae": 5.360263473298869, "params": {"n_time_bins": 2, "n_est_bt": 22, "max_depth_bt": 4, "n_est_rt": 1000, "max_depth_rt": 6, "min_child_weight": 150, "huber_slope": 7.768391306839846, "base_score_multiplier": 1.5063025805429788, "early_stopping": 70, "sizes": [260, 280]}}
+STOCK NUMBER: 73 
+{"STOCK": 73, "best_mae": 7.281660372525761, "params": {"n_time_bins": 2, "n_est_bt": 60, "max_depth_bt": 4, "n_est_rt": 3800, "max_depth_rt": 3, "min_child_weight": 20, "huber_slope": 1.6679104839819034, "base_score_multiplier": 2.525899695909004, "early_stopping": 200, "sizes": [510, 30]}}
+STOCK NUMBER: 74 
+{"STOCK": 74, "best_mae": 6.921962818346245, "params": {"n_time_bins": 2, "n_est_bt": 22, "max_depth_bt": 5, "n_est_rt": 650, "max_depth_rt": 5, "min_child_weight": 180, "huber_slope": 7.859827769682605, "base_score_multiplier": 1.005814753606048, "early_stopping": 70, "sizes": [350, 190]}}
+STOCK NUMBER: 75 
+{"STOCK": 75, "best_mae": 5.491302357015009, "params": {"n_time_bins": 7, "n_est_bt": 11, "max_depth_bt": 3, "n_est_rt": 2300, "max_depth_rt": 8, "min_child_weight": 80, "huber_slope": 9.32857627766884, "base_score_multiplier": 0.23459160277852775, "early_stopping": 80, "sizes": [315, 55, 45, 30, 35, 30, 30]}}
+STOCK NUMBER: 76 
+{"STOCK": 76, "best_mae": 6.7862447830955475, "params": {"n_time_bins": 2, "n_est_bt": 10, "max_depth_bt": 4, "n_est_rt": 2400, "max_depth_rt": 4, "min_child_weight": 30, "huber_slope": 3.18048935717272, "base_score_multiplier": 2.8700829964167514, "early_stopping": 200, "sizes": [270, 270]}}
+STOCK NUMBER: 77 
+{"STOCK": 77, "best_mae": 6.209133786517419, "params": {"n_time_bins": 6, "n_est_bt": 59, "max_depth_bt": 7, "n_est_rt": 3800, "max_depth_rt": 5, "min_child_weight": 150, "huber_slope": 9.75964779223021, "base_score_multiplier": 1.022310692277998, "early_stopping": 190, "sizes": [140, 130, 90, 115, 30, 35]}}
+STOCK NUMBER: 78 
+{"STOCK": 78, "best_mae": 8.150984005656694, "params": {"n_time_bins": 2, "n_est_bt": 48, "max_depth_bt": 4, "n_est_rt": 4450, "max_depth_rt": 3, "min_child_weight": 100, "huber_slope": 7.07231836263869, "base_score_multiplier": 0.5020984769036281, "early_stopping": 190, "sizes": [445, 95]}}
+STOCK NUMBER: 79 
+{"STOCK": 79, "best_mae": 9.447577549929553, "params": {"n_time_bins": 2, "n_est_bt": 28, "max_depth_bt": 5, "n_est_rt": 3950, "max_depth_rt": 5, "min_child_weight": 40, "huber_slope": 2.191441848872439, "base_score_multiplier": 0.31658604112693234, "early_stopping": 50, "sizes": [405, 135]}}
+STOCK NUMBER: 80 
+{"STOCK": 80, "best_mae": 9.284800468337766, "params": {"n_time_bins": 2, "n_est_bt": 14, "max_depth_bt": 8, "n_est_rt": 1950, "max_depth_rt": 3, "min_child_weight": 70, "huber_slope": 9.606067374470936, "base_score_multiplier": 1.3917388434810425, "early_stopping": 40, "sizes": [510, 30]}}
+STOCK NUMBER: 81 
+{"STOCK": 81, "best_mae": 6.711606295314809, "params": {"n_time_bins": 2, "n_est_bt": 13, "max_depth_bt": 4, "n_est_rt": 3200, "max_depth_rt": 3, "min_child_weight": 20, "huber_slope": 5.15326300807269, "base_score_multiplier": 1.4018141774134985, "early_stopping": 20, "sizes": [355, 185]}}
+STOCK NUMBER: 82 
+{"STOCK": 82, "best_mae": 18.212113005042536, "params": {"n_time_bins": 2, "n_est_bt": 37, "max_depth_bt": 7, "n_est_rt": 4950, "max_depth_rt": 4, "min_child_weight": 20, "huber_slope": 7.37025550258772, "base_score_multiplier": 1.032297965880625, "early_stopping": 160, "sizes": [435, 105]}}
+STOCK NUMBER: 83 
+{"STOCK": 83, "best_mae": 6.937272760153806, "params": {"n_time_bins": 2, "n_est_bt": 13, "max_depth_bt": 5, "n_est_rt": 1650, "max_depth_rt": 3, "min_child_weight": 40, "huber_slope": 8.24529650602275, "base_score_multiplier": 2.292710024683526, "early_stopping": 70, "sizes": [510, 30]}}
+STOCK NUMBER: 84 
+{"STOCK": 84, "best_mae": 4.773730494378967, "params": {"n_time_bins": 3, "n_est_bt": 31, "max_depth_bt": 8, "n_est_rt": 2950, "max_depth_rt": 10, "min_child_weight": 180, "huber_slope": 5.515383232163973, "base_score_multiplier": 1.7291191296842567, "early_stopping": 170, "sizes": [425, 45, 70]}}
+STOCK NUMBER: 85 
+{"STOCK": 85, "best_mae": 9.892493846761196, "params": {"n_time_bins": 2, "n_est_bt": 44, "max_depth_bt": 4, "n_est_rt": 3350, "max_depth_rt": 5, "min_child_weight": 20, "huber_slope": 9.158101805746869, "base_score_multiplier": 1.4745608815395301, "early_stopping": 180, "sizes": [510, 30]}}
+STOCK NUMBER: 86 
+{"STOCK": 86, "best_mae": 13.795150544498128, "params": {"n_time_bins": 2, "n_est_bt": 50, "max_depth_bt": 5, "n_est_rt": 3300, "max_depth_rt": 4, "min_child_weight": 20, "huber_slope": 6.683331694637136, "base_score_multiplier": 1.2760689935922018, "early_stopping": 130, "sizes": [505, 35]}}
+STOCK NUMBER: 87 
+{"STOCK": 87, "best_mae": 8.49662317752122, "params": {"n_time_bins": 2, "n_est_bt": 20, "max_depth_bt": 7, "n_est_rt": 4600, "max_depth_rt": 3, "min_child_weight": 30, "huber_slope": 6.8810148648766605, "base_score_multiplier": 1.147852863646662, "early_stopping": 130, "sizes": [510, 30]}}
+STOCK NUMBER: 88 
+{"STOCK": 88, "best_mae": 5.876000392122134, "params": {"n_time_bins": 2, "n_est_bt": 33, "max_depth_bt": 6, "n_est_rt": 2450, "max_depth_rt": 3, "min_child_weight": 120, "huber_slope": 3.16398055847843, "base_score_multiplier": 1.0186362785527439, "early_stopping": 50, "sizes": [470, 70]}}
+STOCK NUMBER: 89 
+{"STOCK": 89, "best_mae": 7.935155984977886, "params": {"n_time_bins": 2, "n_est_bt": 19, "max_depth_bt": 8, "n_est_rt": 500, "max_depth_rt": 10, "min_child_weight": 130, "huber_slope": 9.523561419803936, "base_score_multiplier": 0.302979876078425, "early_stopping": 70, "sizes": [470, 70]}}
+STOCK NUMBER: 90 
+{"STOCK": 90, "best_mae": 5.87347334922906, "params": {"n_time_bins": 2, "n_est_bt": 27, "max_depth_bt": 5, "n_est_rt": 1900, "max_depth_rt": 10, "min_child_weight": 130, "huber_slope": 7.838569652894499, "base_score_multiplier": 2.4968127561444584, "early_stopping": 190, "sizes": [510, 30]}}
+STOCK NUMBER: 91 
+{"STOCK": 91, "best_mae": 7.998747098570866, "params": {"n_time_bins": 4, "n_est_bt": 55, "max_depth_bt": 7, "n_est_rt": 1300, "max_depth_rt": 10, "min_child_weight": 70, "huber_slope": 4.2601707795923724, "base_score_multiplier": 0.25964259260549577, "early_stopping": 150, "sizes": [305, 140, 60, 35]}}
+STOCK NUMBER: 92 
+{"STOCK": 92, "best_mae": 11.645336742566007, "params": {"n_time_bins": 3, "n_est_bt": 59, "max_depth_bt": 4, "n_est_rt": 2700, "max_depth_rt": 8, "min_child_weight": 30, "huber_slope": 2.655621330225247, "base_score_multiplier": 2.442494201679286, "early_stopping": 20, "sizes": [315, 125, 100]}}
+STOCK NUMBER: 93 
+{"STOCK": 93, "best_mae": 13.240292414057823, "params": {"n_time_bins": 2, "n_est_bt": 26, "max_depth_bt": 7, "n_est_rt": 2100, "max_depth_rt": 8, "min_child_weight": 20, "huber_slope": 6.990859561979543, "base_score_multiplier": 0.6293620206263453, "early_stopping": 30, "sizes": [510, 30]}}
+STOCK NUMBER: 94 
+{"STOCK": 94, "best_mae": 8.399991376048053, "params": {"n_time_bins": 2, "n_est_bt": 7, "max_depth_bt": 4, "n_est_rt": 1000, "max_depth_rt": 5, "min_child_weight": 60, "huber_slope": 4.826965656662021, "base_score_multiplier": 1.0018787936666098, "early_stopping": 20, "sizes": [485, 55]}}
+STOCK NUMBER: 95 
+{"STOCK": 95, "best_mae": 6.119280777684058, "params": {"n_time_bins": 2, "n_est_bt": 52, "max_depth_bt": 5, "n_est_rt": 2500, "max_depth_rt": 4, "min_child_weight": 100, "huber_slope": 6.265218889028622, "base_score_multiplier": 0.6132269780118178, "early_stopping": 80, "sizes": [495, 45]}}
+STOCK NUMBER: 96 
+{"STOCK": 96, "best_mae": 7.559249708705964, "params": {"n_time_bins": 10, "n_est_bt": 30, "max_depth_bt": 8, "n_est_rt": 3500, "max_depth_rt": 3, "min_child_weight": 20, "huber_slope": 9.159914602823697, "base_score_multiplier": 1.2909236354324527, "early_stopping": 40, "sizes": [215, 45, 65, 30, 35, 30, 30, 30, 30, 30]}}
+STOCK NUMBER: 97 
+{"STOCK": 97, "best_mae": 6.981985290058769, "params": {"n_time_bins": 2, "n_est_bt": 59, "max_depth_bt": 5, "n_est_rt": 600, "max_depth_rt": 3, "min_child_weight": 80, "huber_slope": 7.313381941132425, "base_score_multiplier": 0.8444932230855644, "early_stopping": 120, "sizes": [500, 40]}}
+STOCK NUMBER: 98 
+{"STOCK": 98, "best_mae": 7.755465220780488, "params": {"n_time_bins": 2, "n_est_bt": 9, "max_depth_bt": 5, "n_est_rt": 2350, "max_depth_rt": 3, "min_child_weight": 30, "huber_slope": 5.064516243914231, "base_score_multiplier": 0.09057023155339694, "early_stopping": 200, "sizes": [490, 50]}}
+STOCK NUMBER: 99 
+{"STOCK": 99, "best_mae": 8.044758603451028, "params": {"n_time_bins": 2, "n_est_bt": 58, "max_depth_bt": 3, "n_est_rt": 1750, "max_depth_rt": 3, "min_child_weight": 20, "huber_slope": 6.1864025575596475, "base_score_multiplier": 0.9549182360360262, "early_stopping": 100, "sizes": [505, 35]}}
+STOCK NUMBER: 100 
+{"STOCK": 100, "best_mae": 12.124582285791364, "params": {"n_time_bins": 2, "n_est_bt": 35, "max_depth_bt": 6, "n_est_rt": 2850, "max_depth_rt": 4, "min_child_weight": 20, "huber_slope": 4.066234680238932, "base_score_multiplier": 2.157670624891355, "early_stopping": 200, "sizes": [495, 45]}}
+STOCK NUMBER: 101 
+{"STOCK": 101, "best_mae": 10.344690780021548, "params": {"n_time_bins": 3, "n_est_bt": 29, "max_depth_bt": 6, "n_est_rt": 4150, "max_depth_rt": 7, "min_child_weight": 20, "huber_slope": 5.4907461649189875, "base_score_multiplier": 2.7725687486686956, "early_stopping": 30, "sizes": [475, 30, 35]}}
+STOCK NUMBER: 103 
+{"STOCK": 103, "best_mae": 6.719385605609037, "params": {"n_time_bins": 3, "n_est_bt": 18, "max_depth_bt": 8, "n_est_rt": 4600, "max_depth_rt": 4, "min_child_weight": 20, "huber_slope": 2.378655968084197, "base_score_multiplier": 2.1315170116391866, "early_stopping": 90, "sizes": [460, 45, 35]}}
+STOCK NUMBER: 104 
+{"STOCK": 104, "best_mae": 6.199085912933974, "params": {"n_time_bins": 3, "n_est_bt": 33, "max_depth_bt": 5, "n_est_rt": 5000, "max_depth_rt": 4, "min_child_weight": 20, "huber_slope": 9.202335085875196, "base_score_multiplier": 2.07124696800854, "early_stopping": 100, "sizes": [155, 340, 45]}}
+STOCK NUMBER: 105 
+{"STOCK": 105, "best_mae": 4.706744345300471, "params": {"n_time_bins": 2, "n_est_bt": 52, "max_depth_bt": 3, "n_est_rt": 850, "max_depth_rt": 3, "min_child_weight": 170, "huber_slope": 3.468563525499611, "base_score_multiplier": 1.7418762673961072, "early_stopping": 50, "sizes": [190, 350]}}
+STOCK NUMBER: 106 
+{"STOCK": 106, "best_mae": 5.284944899516153, "params": {"n_time_bins": 2, "n_est_bt": 47, "max_depth_bt": 5, "n_est_rt": 1700, "max_depth_rt": 3, "min_child_weight": 130, "huber_slope": 8.14900839681462, "base_score_multiplier": 2.714039140460818, "early_stopping": 160, "sizes": [510, 30]}}
+STOCK NUMBER: 107 
+{"STOCK": 107, "best_mae": 7.869493956739275, "params": {"n_time_bins": 4, "n_est_bt": 39, "max_depth_bt": 7, "n_est_rt": 4800, "max_depth_rt": 5, "min_child_weight": 50, "huber_slope": 9.37333742700907, "base_score_multiplier": 2.9259850553261404, "early_stopping": 170, "sizes": [390, 75, 40, 35]}}
+STOCK NUMBER: 108 
+{"STOCK": 108, "best_mae": 8.050634513685122, "params": {"n_time_bins": 2, "n_est_bt": 14, "max_depth_bt": 7, "n_est_rt": 1650, "max_depth_rt": 6, "min_child_weight": 20, "huber_slope": 6.431289637917861, "base_score_multiplier": 2.1982263411796588, "early_stopping": 130, "sizes": [505, 35]}}
+STOCK NUMBER: 109 
+{"STOCK": 109, "best_mae": 5.213008067026191, "params": {"n_time_bins": 2, "n_est_bt": 26, "max_depth_bt": 8, "n_est_rt": 2950, "max_depth_rt": 6, "min_child_weight": 200, "huber_slope": 6.1862837551534895, "base_score_multiplier": 2.1941522487693463, "early_stopping": 130, "sizes": [505, 35]}}
+STOCK NUMBER: 110 
+{"STOCK": 110, "best_mae": 5.563221634612679, "params": {"n_time_bins": 3, "n_est_bt": 32, "max_depth_bt": 3, "n_est_rt": 3350, "max_depth_rt": 10, "min_child_weight": 80, "huber_slope": 7.313346167927317, "base_score_multiplier": 2.201280021045811, "early_stopping": 110, "sizes": [405, 95, 40]}}
+STOCK NUMBER: 111 
+{"STOCK": 111, "best_mae": 9.57499956651957, "params": {"n_time_bins": 2, "n_est_bt": 43, "max_depth_bt": 7, "n_est_rt": 900, "max_depth_rt": 4, "min_child_weight": 80, "huber_slope": 7.684087134348143, "base_score_multiplier": 2.2803757578112873, "early_stopping": 10, "sizes": [360, 180]}}
+STOCK NUMBER: 112 
+{"STOCK": 112, "best_mae": 3.575674012514395, "params": {"n_time_bins": 8, "n_est_bt": 43, "max_depth_bt": 3, "n_est_rt": 3900, "max_depth_rt": 3, "min_child_weight": 80, "huber_slope": 3.2782405130330305, "base_score_multiplier": 1.9409323926170468, "early_stopping": 70, "sizes": [235, 65, 70, 30, 45, 35, 30, 30]}}
+STOCK NUMBER: 113 
+{"STOCK": 113, "best_mae": 6.103857862354792, "params": {"n_time_bins": 2, "n_est_bt": 26, "max_depth_bt": 3, "n_est_rt": 4550, "max_depth_rt": 3, "min_child_weight": 60, "huber_slope": 3.3478328522451317, "base_score_multiplier": 0.8666608198095356, "early_stopping": 160, "sizes": [170, 370]}}
+STOCK NUMBER: 114 
+{"STOCK": 114, "best_mae": 8.721606382291567, "params": {"n_time_bins": 2, "n_est_bt": 40, "max_depth_bt": 4, "n_est_rt": 3350, "max_depth_rt": 6, "min_child_weight": 50, "huber_slope": 9.701532122580176, "base_score_multiplier": 0.8488133401804937, "early_stopping": 120, "sizes": [495, 45]}}
+STOCK NUMBER: 115 
+{"STOCK": 115, "best_mae": 7.486327607888278, "params": {"n_time_bins": 2, "n_est_bt": 32, "max_depth_bt": 8, "n_est_rt": 3800, "max_depth_rt": 7, "min_child_weight": 170, "huber_slope": 6.565164270118814, "base_score_multiplier": 1.9410122184088985, "early_stopping": 110, "sizes": [370, 170]}}
+STOCK NUMBER: 116 
+{"STOCK": 116, "best_mae": 5.307573855870673, "params": {"n_time_bins": 2, "n_est_bt": 53, "max_depth_bt": 5, "n_est_rt": 1350, "max_depth_rt": 8, "min_child_weight": 20, "huber_slope": 5.651297479463269, "base_score_multiplier": 0.5697454288287643, "early_stopping": 130, "sizes": [80, 460]}}
+STOCK NUMBER: 117 
+{"STOCK": 117, "best_mae": 6.4196508508044055, "params": {"n_time_bins": 2, "n_est_bt": 52, "max_depth_bt": 5, "n_est_rt": 3800, "max_depth_rt": 4, "min_child_weight": 80, "huber_slope": 5.373705195957422, "base_score_multiplier": 0.6243531151134436, "early_stopping": 130, "sizes": [500, 40]}}
+STOCK NUMBER: 118 
+{"STOCK": 118, "best_mae": 8.017737764584536, "params": {"n_time_bins": 2, "n_est_bt": 35, "max_depth_bt": 4, "n_est_rt": 2000, "max_depth_rt": 3, "min_child_weight": 110, "huber_slope": 6.566644337990429, "base_score_multiplier": 0.7073317721183722, "early_stopping": 100, "sizes": [405, 135]}}
+STOCK NUMBER: 119 
+{"STOCK": 119, "best_mae": 7.8768202351055985, "params": {"n_time_bins": 2, "n_est_bt": 9, "max_depth_bt": 3, "n_est_rt": 2150, "max_depth_rt": 4, "min_child_weight": 90, "huber_slope": 3.1878072159390918, "base_score_multiplier": 1.2889142953702508, "early_stopping": 70, "sizes": [380, 160]}}
+STOCK NUMBER: 120 
+{"STOCK": 120, "best_mae": 6.15984942295506, "params": {"n_time_bins": 2, "n_est_bt": 22, "max_depth_bt": 3, "n_est_rt": 4450, "max_depth_rt": 3, "min_child_weight": 80, "huber_slope": 9.806423019772133, "base_score_multiplier": 1.4669593032782757, "early_stopping": 170, "sizes": [240, 300]}}
+STOCK NUMBER: 121 
+{"STOCK": 121, "best_mae": 5.887825762779899, "params": {"n_time_bins": 3, "n_est_bt": 24, "max_depth_bt": 5, "n_est_rt": 2300, "max_depth_rt": 8, "min_child_weight": 100, "huber_slope": 8.118477994641871, "base_score_multiplier": 1.990698790444192, "early_stopping": 200, "sizes": [470, 35, 35]}}
+STOCK NUMBER: 122 
+{"STOCK": 122, "best_mae": 6.528428475838181, "params": {"n_time_bins": 2, "n_est_bt": 58, "max_depth_bt": 8, "n_est_rt": 2200, "max_depth_rt": 9, "min_child_weight": 70, "huber_slope": 5.353691894844335, "base_score_multiplier": 2.213555845867348, "early_stopping": 170, "sizes": [470, 70]}}
+STOCK NUMBER: 123 
+{"STOCK": 123, "best_mae": 5.419193430373069, "params": {"n_time_bins": 2, "n_est_bt": 58, "max_depth_bt": 7, "n_est_rt": 1550, "max_depth_rt": 9, "min_child_weight": 70, "huber_slope": 3.874796578030966, "base_score_multiplier": 2.2781671425195475, "early_stopping": 90, "sizes": [80, 460]}}
+STOCK NUMBER: 124 
+{"STOCK": 124, "best_mae": 8.490730974426667, "params": {"n_time_bins": 2, "n_est_bt": 53, "max_depth_bt": 4, "n_est_rt": 950, "max_depth_rt": 10, "min_child_weight": 100, "huber_slope": 9.251293999411695, "base_score_multiplier": 0.8310123280533269, "early_stopping": 90, "sizes": [415, 125]}}
+STOCK NUMBER: 125 
+{"STOCK": 125, "best_mae": 8.22118441034303, "params": {"n_time_bins": 2, "n_est_bt": 17, "max_depth_bt": 8, "n_est_rt": 4100, "max_depth_rt": 6, "min_child_weight": 30, "huber_slope": 9.56303333932163, "base_score_multiplier": 1.437085635530109, "early_stopping": 40, "sizes": [495, 45]}}
+STOCK NUMBER: 126 
+{"STOCK": 126, "best_mae": 5.791198156271728, "params": {"n_time_bins": 2, "n_est_bt": 20, "max_depth_bt": 7, "n_est_rt": 1050, "max_depth_rt": 6, "min_child_weight": 80, "huber_slope": 7.269230843351089, "base_score_multiplier": 1.7002531366134368, "early_stopping": 100, "sizes": [510, 30]}}
+STOCK NUMBER: 127 
+{"STOCK": 127, "best_mae": 9.223528560632637, "params": {"n_time_bins": 3, "n_est_bt": 52, "max_depth_bt": 4, "n_est_rt": 4550, "max_depth_rt": 3, "min_child_weight": 50, "huber_slope": 8.41167746207743, "base_score_multiplier": 1.0515871577196103, "early_stopping": 40, "sizes": [160, 335, 45]}}
+STOCK NUMBER: 128 
+{"STOCK": 128, "best_mae": 6.318361875915296, "params": {"n_time_bins": 3, "n_est_bt": 47, "max_depth_bt": 7, "n_est_rt": 3850, "max_depth_rt": 7, "min_child_weight": 110, "huber_slope": 7.422759390370802, "base_score_multiplier": 1.3825769198078173, "early_stopping": 10, "sizes": [445, 50, 45]}}
+STOCK NUMBER: 129 
+{"STOCK": 129, "best_mae": 10.746472879002354, "params": {"n_time_bins": 6, "n_est_bt": 38, "max_depth_bt": 4, "n_est_rt": 450, "max_depth_rt": 8, "min_child_weight": 20, "huber_slope": 6.00875842108352, "base_score_multiplier": 0.8231889212101472, "early_stopping": 150, "sizes": [85, 335, 30, 30, 30, 30]}}
+STOCK NUMBER: 130 
+{"STOCK": 130, "best_mae": 4.406135032161398, "params": {"n_time_bins": 4, "n_est_bt": 19, "max_depth_bt": 6, "n_est_rt": 1400, "max_depth_rt": 5, "min_child_weight": 120, "huber_slope": 8.994311466608178, "base_score_multiplier": 0.2686247879671706, "early_stopping": 40, "sizes": [390, 60, 35, 55]}}
+STOCK NUMBER: 131 
+{"STOCK": 131, "best_mae": 6.401109857064183, "params": {"n_time_bins": 2, "n_est_bt": 53, "max_depth_bt": 3, "n_est_rt": 3500, "max_depth_rt": 3, "min_child_weight": 190, "huber_slope": 5.69199035333207, "base_score_multiplier": 1.7378583871160638, "early_stopping": 130, "sizes": [400, 140]}}
+STOCK NUMBER: 132 
+{"STOCK": 132, "best_mae": 6.126708635236069, "params": {"n_time_bins": 2, "n_est_bt": 10, "max_depth_bt": 5, "n_est_rt": 3350, "max_depth_rt": 4, "min_child_weight": 90, "huber_slope": 9.858418105976625, "base_score_multiplier": 1.6877894818550232, "early_stopping": 150, "sizes": [415, 125]}}
+STOCK NUMBER: 133 
+{"STOCK": 133, "best_mae": 4.807685378199585, "params": {"n_time_bins": 2, "n_est_bt": 31, "max_depth_bt": 8, "n_est_rt": 1400, "max_depth_rt": 3, "min_child_weight": 40, "huber_slope": 8.321527578488455, "base_score_multiplier": 0.31551470375797386, "early_stopping": 70, "sizes": [510, 30]}}
+STOCK NUMBER: 134 
+{"STOCK": 134, "best_mae": 7.982237205016142, "params": {"n_time_bins": 2, "n_est_bt": 44, "max_depth_bt": 4, "n_est_rt": 3150, "max_depth_rt": 4, "min_child_weight": 50, "huber_slope": 5.283478836587458, "base_score_multiplier": 2.2026848653564812, "early_stopping": 70, "sizes": [205, 335]}}
+STOCK NUMBER: 135 
+{"STOCK": 135, "best_mae": 8.322550375860533, "params": {"n_time_bins": 3, "n_est_bt": 14, "max_depth_bt": 6, "n_est_rt": 2000, "max_depth_rt": 4, "min_child_weight": 40, "huber_slope": 8.615355457304606, "base_score_multiplier": 2.930053568202574, "early_stopping": 150, "sizes": [465, 30, 45]}}
+STOCK NUMBER: 136 
+{"STOCK": 136, "best_mae": 7.351881757304672, "params": {"n_time_bins": 2, "n_est_bt": 32, "max_depth_bt": 3, "n_est_rt": 3800, "max_depth_rt": 3, "min_child_weight": 90, "huber_slope": 8.041364521241283, "base_score_multiplier": 1.0492962931314171, "early_stopping": 130, "sizes": [480, 60]}}
+STOCK NUMBER: 137 
+{"STOCK": 137, "best_mae": 6.174243294674332, "params": {"n_time_bins": 2, "n_est_bt": 7, "max_depth_bt": 7, "n_est_rt": 3000, "max_depth_rt": 10, "min_child_weight": 100, "huber_slope": 7.342550509712288, "base_score_multiplier": 0.48849693710939035, "early_stopping": 200, "sizes": [510, 30]}}
+STOCK NUMBER: 138 
+{"STOCK": 138, "best_mae": 10.05662613339517, "params": {"n_time_bins": 3, "n_est_bt": 47, "max_depth_bt": 3, "n_est_rt": 3250, "max_depth_rt": 3, "min_child_weight": 50, "huber_slope": 6.8085062654771695, "base_score_multiplier": 2.2802135386628546, "early_stopping": 50, "sizes": [480, 30, 30]}}
+STOCK NUMBER: 139 
+{"STOCK": 139, "best_mae": 6.528141672449042, "params": {"n_time_bins": 5, "n_est_bt": 17, "max_depth_bt": 3, "n_est_rt": 4650, "max_depth_rt": 10, "min_child_weight": 80, "huber_slope": 4.413973972731453, "base_score_multiplier": 0.1474080019707659, "early_stopping": 180, "sizes": [390, 30, 50, 35, 35]}}
+STOCK NUMBER: 140 
+{"STOCK": 140, "best_mae": 5.056175600192067, "params": {"n_time_bins": 3, "n_est_bt": 39, "max_depth_bt": 8, "n_est_rt": 3700, "max_depth_rt": 3, "min_child_weight": 40, "huber_slope": 1.098404687044825, "base_score_multiplier": 1.8978745026783357, "early_stopping": 60, "sizes": [420, 60, 60]}}
+STOCK NUMBER: 141 
+{"STOCK": 141, "best_mae": 5.456740376665091, "params": {"n_time_bins": 2, "n_est_bt": 11, "max_depth_bt": 7, "n_est_rt": 3100, "max_depth_rt": 3, "min_child_weight": 50, "huber_slope": 9.453825504694887, "base_score_multiplier": 1.1322741091446713, "early_stopping": 90, "sizes": [325, 215]}}
+STOCK NUMBER: 142 
+{"STOCK": 142, "best_mae": 6.147214487370812, "params": {"n_time_bins": 2, "n_est_bt": 57, "max_depth_bt": 6, "n_est_rt": 550, "max_depth_rt": 3, "min_child_weight": 20, "huber_slope": 3.323232219574958, "base_score_multiplier": 0.5284588851524233, "early_stopping": 110, "sizes": [510, 30]}}
+STOCK NUMBER: 143 
+{"STOCK": 143, "best_mae": 8.286529582331788, "params": {"n_time_bins": 4, "n_est_bt": 28, "max_depth_bt": 4, "n_est_rt": 2150, "max_depth_rt": 3, "min_child_weight": 20, "huber_slope": 8.705258433732359, "base_score_multiplier": 0.18745711832185075, "early_stopping": 150, "sizes": [390, 85, 30, 35]}}
+STOCK NUMBER: 144 
+{"STOCK": 144, "best_mae": 5.4273235417346815, "params": {"n_time_bins": 3, "n_est_bt": 56, "max_depth_bt": 7, "n_est_rt": 4600, "max_depth_rt": 4, "min_child_weight": 160, "huber_slope": 8.109845634491192, "base_score_multiplier": 2.2323646313241667, "early_stopping": 150, "sizes": [470, 30, 40]}}
+STOCK NUMBER: 145 
+{"STOCK": 145, "best_mae": 7.176006277384345, "params": {"n_time_bins": 2, "n_est_bt": 58, "max_depth_bt": 6, "n_est_rt": 4200, "max_depth_rt": 4, "min_child_weight": 20, "huber_slope": 7.628305889856174, "base_score_multiplier": 0.41975660970773765, "early_stopping": 10, "sizes": [490, 50]}}
+STOCK NUMBER: 146 
+{"STOCK": 146, "best_mae": 7.2267420921655505, "params": {"n_time_bins": 2, "n_est_bt": 48, "max_depth_bt": 8, "n_est_rt": 1300, "max_depth_rt": 6, "min_child_weight": 50, "huber_slope": 4.291037247246513, "base_score_multiplier": 2.7209938651092846, "early_stopping": 110, "sizes": [500, 40]}}
+STOCK NUMBER: 147 
+{"STOCK": 147, "best_mae": 6.847238267090665, "params": {"n_time_bins": 3, "n_est_bt": 35, "max_depth_bt": 6, "n_est_rt": 1150, "max_depth_rt": 4, "min_child_weight": 20, "huber_slope": 8.189694356271016, "base_score_multiplier": 2.3073383778614804, "early_stopping": 40, "sizes": [370, 120, 50]}}
+STOCK NUMBER: 148 
+{"STOCK": 148, "best_mae": 5.477009948041527, "params": {"n_time_bins": 3, "n_est_bt": 52, "max_depth_bt": 8, "n_est_rt": 1950, "max_depth_rt": 3, "min_child_weight": 20, "huber_slope": 4.291067823133824, "base_score_multiplier": 0.3474899698696372, "early_stopping": 50, "sizes": [345, 110, 85]}}
+STOCK NUMBER: 149 
+{"STOCK": 149, "best_mae": 5.306766331789097, "params": {"n_time_bins": 2, "n_est_bt": 49, "max_depth_bt": 4, "n_est_rt": 1250, "max_depth_rt": 4, "min_child_weight": 70, "huber_slope": 4.202543486274808, "base_score_multiplier": 0.9094274857063925, "early_stopping": 150, "sizes": [510, 30]}}
+STOCK NUMBER: 150 
+{"STOCK": 150, "best_mae": 5.556494858144359, "params": {"n_time_bins": 2, "n_est_bt": 5, "max_depth_bt": 4, "n_est_rt": 3600, "max_depth_rt": 3, "min_child_weight": 60, "huber_slope": 4.5706059697622985, "base_score_multiplier": 1.4370010954575818, "early_stopping": 200, "sizes": [510, 30]}}
+STOCK NUMBER: 151 
+{"STOCK": 151, "best_mae": 4.299235886336727, "params": {"n_time_bins": 2, "n_est_bt": 59, "max_depth_bt": 4, "n_est_rt": 1300, "max_depth_rt": 10, "min_child_weight": 150, "huber_slope": 9.421955653800065, "base_score_multiplier": 0.7671908967445616, "early_stopping": 80, "sizes": [505, 35]}}
+STOCK NUMBER: 152 
+{"STOCK": 152, "best_mae": 6.854930433321845, "params": {"n_time_bins": 2, "n_est_bt": 58, "max_depth_bt": 6, "n_est_rt": 2250, "max_depth_rt": 3, "min_child_weight": 60, "huber_slope": 2.2453679350510276, "base_score_multiplier": 1.2255117088736076, "early_stopping": 180, "sizes": [480, 60]}}
+STOCK NUMBER: 153 
+{"STOCK": 153, "best_mae": 8.3223936157431, "params": {"n_time_bins": 2, "n_est_bt": 57, "max_depth_bt": 7, "n_est_rt": 1400, "max_depth_rt": 3, "min_child_weight": 70, "huber_slope": 8.633636158061208, "base_score_multiplier": 1.2027072681062698, "early_stopping": 150, "sizes": [380, 160]}}
+STOCK NUMBER: 154 
+{"STOCK": 154, "best_mae": 6.967109713376486, "params": {"n_time_bins": 2, "n_est_bt": 40, "max_depth_bt": 7, "n_est_rt": 2550, "max_depth_rt": 7, "min_child_weight": 70, "huber_slope": 8.320440560778877, "base_score_multiplier": 2.167631639086216, "early_stopping": 10, "sizes": [500, 40]}}
+STOCK NUMBER: 155 
+{"STOCK": 155, "best_mae": 7.124514246043973, "params": {"n_time_bins": 3, "n_est_bt": 7, "max_depth_bt": 7, "n_est_rt": 5000, "max_depth_rt": 4, "min_child_weight": 150, "huber_slope": 8.820727532423946, "base_score_multiplier": 1.2214682061040234, "early_stopping": 50, "sizes": [455, 40, 45]}}
+STOCK NUMBER: 156 
+{"STOCK": 156, "best_mae": 9.989327830951856, "params": {"n_time_bins": 2, "n_est_bt": 43, "max_depth_bt": 7, "n_est_rt": 1650, "max_depth_rt": 6, "min_child_weight": 50, "huber_slope": 5.360672928415834, "base_score_multiplier": 2.0299595293533406, "early_stopping": 10, "sizes": [505, 35]}}
+STOCK NUMBER: 157 
+{"STOCK": 157, "best_mae": 5.535040298164996, "params": {"n_time_bins": 2, "n_est_bt": 44, "max_depth_bt": 8, "n_est_rt": 4500, "max_depth_rt": 5, "min_child_weight": 100, "huber_slope": 8.562372545284711, "base_score_multiplier": 0.5382605241172708, "early_stopping": 120, "sizes": [505, 35]}}
+STOCK NUMBER: 158 
+{"STOCK": 158, "best_mae": 9.42360979778926, "params": {"n_time_bins": 2, "n_est_bt": 45, "max_depth_bt": 5, "n_est_rt": 4050, "max_depth_rt": 3, "min_child_weight": 40, "huber_slope": 6.282051536746324, "base_score_multiplier": 0.3819207481940571, "early_stopping": 120, "sizes": [505, 35]}}
+STOCK NUMBER: 159 
+{"STOCK": 159, "best_mae": 7.1803301727992235, "params": {"n_time_bins": 2, "n_est_bt": 54, "max_depth_bt": 3, "n_est_rt": 1000, "max_depth_rt": 4, "min_child_weight": 70, "huber_slope": 8.64008685705182, "base_score_multiplier": 1.3943990659025156, "early_stopping": 30, "sizes": [320, 220]}}
+STOCK NUMBER: 160 
+{"STOCK": 160, "best_mae": 4.643304465383037, "params": {"n_time_bins": 2, "n_est_bt": 45, "max_depth_bt": 3, "n_est_rt": 2950, "max_depth_rt": 5, "min_child_weight": 150, "huber_slope": 2.888146689540445, "base_score_multiplier": 2.147890848910755, "early_stopping": 70, "sizes": [505, 35]}}
+STOCK NUMBER: 161 
+{"STOCK": 161, "best_mae": 11.315177478630373, "params": {"n_time_bins": 2, "n_est_bt": 11, "max_depth_bt": 7, "n_est_rt": 3900, "max_depth_rt": 3, "min_child_weight": 50, "huber_slope": 4.505128840983078, "base_score_multiplier": 2.1261315344186387, "early_stopping": 110, "sizes": [505, 35]}}
+STOCK NUMBER: 162 
+{"STOCK": 162, "best_mae": 7.420651467380902, "params": {"n_time_bins": 2, "n_est_bt": 32, "max_depth_bt": 7, "n_est_rt": 3750, "max_depth_rt": 5, "min_child_weight": 70, "huber_slope": 7.978505918455841, "base_score_multiplier": 2.9181622328120764, "early_stopping": 170, "sizes": [505, 35]}}
+STOCK NUMBER: 163 
+{"STOCK": 163, "best_mae": 4.3777559010711435, "params": {"n_time_bins": 2, "n_est_bt": 34, "max_depth_bt": 8, "n_est_rt": 3800, "max_depth_rt": 3, "min_child_weight": 200, "huber_slope": 7.095802135341876, "base_score_multiplier": 1.754315341186305, "early_stopping": 120, "sizes": [370, 170]}}
+STOCK NUMBER: 164 
+{"STOCK": 164, "best_mae": 4.94860363382054, "params": {"n_time_bins": 2, "n_est_bt": 56, "max_depth_bt": 5, "n_est_rt": 3650, "max_depth_rt": 3, "min_child_weight": 80, "huber_slope": 3.6169916035621754, "base_score_multiplier": 0.7845470967456638, "early_stopping": 40, "sizes": [400, 140]}}
+STOCK NUMBER: 165 
+{"STOCK": 165, "best_mae": 6.951714319243783, "params": {"n_time_bins": 2, "n_est_bt": 16, "max_depth_bt": 7, "n_est_rt": 4950, "max_depth_rt": 8, "min_child_weight": 70, "huber_slope": 5.342124635159903, "base_score_multiplier": 1.8162699719492892, "early_stopping": 150, "sizes": [510, 30]}}
+STOCK NUMBER: 166 
+{"STOCK": 166, "best_mae": 5.669645193268759, "params": {"n_time_bins": 4, "n_est_bt": 40, "max_depth_bt": 3, "n_est_rt": 3200, "max_depth_rt": 6, "min_child_weight": 200, "huber_slope": 7.121539628723931, "base_score_multiplier": 2.995371074496262, "early_stopping": 190, "sizes": [355, 70, 80, 35]}}
+STOCK NUMBER: 167 
+{"STOCK": 167, "best_mae": 6.506874753186138, "params": {"n_time_bins": 2, "n_est_bt": 44, "max_depth_bt": 4, "n_est_rt": 3600, "max_depth_rt": 5, "min_child_weight": 50, "huber_slope": 5.299418850472892, "base_score_multiplier": 1.1036428352911298, "early_stopping": 140, "sizes": [510, 30]}}
+STOCK NUMBER: 168 
+{"STOCK": 168, "best_mae": 4.533656699734847, "params": {"n_time_bins": 3, "n_est_bt": 22, "max_depth_bt": 8, "n_est_rt": 2450, "max_depth_rt": 5, "min_child_weight": 200, "huber_slope": 6.496667747469008, "base_score_multiplier": 1.8047651981739428, "early_stopping": 110, "sizes": [355, 125, 60]}}
+STOCK NUMBER: 169 
+{"STOCK": 169, "best_mae": 5.756624536165778, "params": {"n_time_bins": 2, "n_est_bt": 40, "max_depth_bt": 3, "n_est_rt": 3600, "max_depth_rt": 10, "min_child_weight": 150, "huber_slope": 8.582917552980552, "base_score_multiplier": 2.056062121246525, "early_stopping": 140, "sizes": [490, 50]}}
+STOCK NUMBER: 170 
+{"STOCK": 170, "best_mae": 5.581598328528927, "params": {"n_time_bins": 2, "n_est_bt": 32, "max_depth_bt": 8, "n_est_rt": 3350, "max_depth_rt": 4, "min_child_weight": 60, "huber_slope": 4.531636837283836, "base_score_multiplier": 2.7360335100236686, "early_stopping": 130, "sizes": [505, 35]}}
+STOCK NUMBER: 171 
+{"STOCK": 171, "best_mae": 5.952348835971507, "params": {"n_time_bins": 2, "n_est_bt": 52, "max_depth_bt": 7, "n_est_rt": 4100, "max_depth_rt": 5, "min_child_weight": 110, "huber_slope": 9.665218117994415, "base_score_multiplier": 1.1678233895015517, "early_stopping": 70, "sizes": [480, 60]}}
+STOCK NUMBER: 172 
+{"STOCK": 172, "best_mae": 8.992916849328275, "params": {"n_time_bins": 2, "n_est_bt": 8, "max_depth_bt": 7, "n_est_rt": 700, "max_depth_rt": 4, "min_child_weight": 130, "huber_slope": 9.252438102563511, "base_score_multiplier": 2.500888935081942, "early_stopping": 160, "sizes": [415, 125]}}
+STOCK NUMBER: 173 
+{"STOCK": 173, "best_mae": 8.13569808800534, "params": {"n_time_bins": 2, "n_est_bt": 29, "max_depth_bt": 8, "n_est_rt": 4800, "max_depth_rt": 4, "min_child_weight": 200, "huber_slope": 9.03595528267772, "base_score_multiplier": 0.8976739697173464, "early_stopping": 170, "sizes": [480, 60]}}
+STOCK NUMBER: 174 
+{"STOCK": 174, "best_mae": 11.37934555670978, "params": {"n_time_bins": 3, "n_est_bt": 28, "max_depth_bt": 8, "n_est_rt": 1400, "max_depth_rt": 9, "min_child_weight": 100, "huber_slope": 8.526583522418552, "base_score_multiplier": 0.25089038426715005, "early_stopping": 50, "sizes": [395, 80, 65]}}
+STOCK NUMBER: 175 
+{"STOCK": 175, "best_mae": 4.869129075195914, "params": {"n_time_bins": 2, "n_est_bt": 12, "max_depth_bt": 8, "n_est_rt": 3200, "max_depth_rt": 3, "min_child_weight": 20, "huber_slope": 3.8218679151037733, "base_score_multiplier": 2.003937443473827, "early_stopping": 190, "sizes": [505, 35]}}
+STOCK NUMBER: 176 
+{"STOCK": 176, "best_mae": 6.561828855613401, "params": {"n_time_bins": 2, "n_est_bt": 13, "max_depth_bt": 4, "n_est_rt": 700, "max_depth_rt": 5, "min_child_weight": 90, "huber_slope": 8.718803853370476, "base_score_multiplier": 0.2130021120901151, "early_stopping": 200, "sizes": [510, 30]}}
+STOCK NUMBER: 177 
+{"STOCK": 177, "best_mae": 10.493660504855312, "params": {"n_time_bins": 2, "n_est_bt": 32, "max_depth_bt": 3, "n_est_rt": 1450, "max_depth_rt": 4, "min_child_weight": 30, "huber_slope": 1.9114570926951373, "base_score_multiplier": 2.6184856589650725, "early_stopping": 200, "sizes": [490, 50]}}
+STOCK NUMBER: 178 
+{"STOCK": 178, "best_mae": 6.870093233146265, "params": {"n_time_bins": 4, "n_est_bt": 10, "max_depth_bt": 6, "n_est_rt": 2700, "max_depth_rt": 10, "min_child_weight": 20, "huber_slope": 1.7269712721104746, "base_score_multiplier": 1.2585857049530949, "early_stopping": 180, "sizes": [385, 50, 65, 40]}}
+STOCK NUMBER: 179 
+{"STOCK": 179, "best_mae": 5.518087371781861, "params": {"n_time_bins": 2, "n_est_bt": 36, "max_depth_bt": 5, "n_est_rt": 1650, "max_depth_rt": 3, "min_child_weight": 110, "huber_slope": 6.672089766797717, "base_score_multiplier": 1.934715180085672, "early_stopping": 160, "sizes": [265, 275]}}
+STOCK NUMBER: 180 
+{"STOCK": 180, "best_mae": 10.59227618844348, "params": {"n_time_bins": 2, "n_est_bt": 31, "max_depth_bt": 8, "n_est_rt": 4300, "max_depth_rt": 4, "min_child_weight": 70, "huber_slope": 7.328747451324385, "base_score_multiplier": 0.4970903384589477, "early_stopping": 130, "sizes": [450, 90]}}
+STOCK NUMBER: 181 
+{"STOCK": 181, "best_mae": 6.557680490300291, "params": {"n_time_bins": 2, "n_est_bt": 25, "max_depth_bt": 8, "n_est_rt": 2900, "max_depth_rt": 6, "min_child_weight": 60, "huber_slope": 9.43391861675405, "base_score_multiplier": 2.138794388859561, "early_stopping": 180, "sizes": [500, 40]}}
+STOCK NUMBER: 182 
+{"STOCK": 182, "best_mae": 6.242774021330504, "params": {"n_time_bins": 3, "n_est_bt": 40, "max_depth_bt": 8, "n_est_rt": 3300, "max_depth_rt": 10, "min_child_weight": 40, "huber_slope": 3.386172422207208, "base_score_multiplier": 2.0369627846765845, "early_stopping": 50, "sizes": [470, 35, 35]}}
+STOCK NUMBER: 183 
+{"STOCK": 183, "best_mae": 5.90129830166636, "params": {"n_time_bins": 2, "n_est_bt": 19, "max_depth_bt": 3, "n_est_rt": 2600, "max_depth_rt": 8, "min_child_weight": 170, "huber_slope": 9.855844451114727, "base_score_multiplier": 0.024527190397916288, "early_stopping": 90, "sizes": [510, 30]}}
+STOCK NUMBER: 184 
+{"STOCK": 184, "best_mae": 7.217824027480603, "params": {"n_time_bins": 2, "n_est_bt": 26, "max_depth_bt": 7, "n_est_rt": 550, "max_depth_rt": 5, "min_child_weight": 120, "huber_slope": 9.753650007354278, "base_score_multiplier": 0.8786569449817162, "early_stopping": 90, "sizes": [210, 330]}}
+STOCK NUMBER: 185 
+{"STOCK": 185, "best_mae": 6.75797141500628, "params": {"n_time_bins": 2, "n_est_bt": 52, "max_depth_bt": 4, "n_est_rt": 2650, "max_depth_rt": 6, "min_child_weight": 20, "huber_slope": 9.879035185497496, "base_score_multiplier": 2.733239339411342, "early_stopping": 110, "sizes": [505, 35]}}
+STOCK NUMBER: 186 
+{"STOCK": 186, "best_mae": 5.332409568041121, "params": {"n_time_bins": 2, "n_est_bt": 33, "max_depth_bt": 8, "n_est_rt": 2300, "max_depth_rt": 3, "min_child_weight": 40, "huber_slope": 7.375772301999289, "base_score_multiplier": 0.43570395101405224, "early_stopping": 130, "sizes": [505, 35]}}
+STOCK NUMBER: 187 
+{"STOCK": 187, "best_mae": 4.893845287676622, "params": {"n_time_bins": 2, "n_est_bt": 29, "max_depth_bt": 3, "n_est_rt": 1900, "max_depth_rt": 5, "min_child_weight": 110, "huber_slope": 9.009973526589883, "base_score_multiplier": 0.8153445075797112, "early_stopping": 100, "sizes": [510, 30]}}
+STOCK NUMBER: 188 
+{"STOCK": 188, "best_mae": 9.270729931001506, "params": {"n_time_bins": 2, "n_est_bt": 10, "max_depth_bt": 6, "n_est_rt": 1400, "max_depth_rt": 10, "min_child_weight": 170, "huber_slope": 9.375705214059234, "base_score_multiplier": 1.8602811220459474, "early_stopping": 180, "sizes": [500, 40]}}
+STOCK NUMBER: 189 
+{"STOCK": 189, "best_mae": 5.7909578906713035, "params": {"n_time_bins": 2, "n_est_bt": 50, "max_depth_bt": 7, "n_est_rt": 4000, "max_depth_rt": 3, "min_child_weight": 70, "huber_slope": 9.536486045617867, "base_score_multiplier": 2.637673194824698, "early_stopping": 100, "sizes": [250, 290]}}
+STOCK NUMBER: 190 
+{"STOCK": 190, "best_mae": 6.05909536050901, "params": {"n_time_bins": 3, "n_est_bt": 10, "max_depth_bt": 4, "n_est_rt": 1700, "max_depth_rt": 9, "min_child_weight": 30, "huber_slope": 7.131237043313466, "base_score_multiplier": 1.8535631937316301, "early_stopping": 20, "sizes": [475, 30, 35]}}
+STOCK NUMBER: 191 
+{"STOCK": 191, "best_mae": 6.008100969989353, "params": {"n_time_bins": 3, "n_est_bt": 47, "max_depth_bt": 8, "n_est_rt": 2850, "max_depth_rt": 3, "min_child_weight": 50, "huber_slope": 7.723852222149222, "base_score_multiplier": 2.782787181629611, "early_stopping": 160, "sizes": [480, 30, 30]}}
+STOCK NUMBER: 192 
+{"STOCK": 192, "best_mae": 5.5344376290478134, "params": {"n_time_bins": 2, "n_est_bt": 30, "max_depth_bt": 8, "n_est_rt": 650, "max_depth_rt": 7, "min_child_weight": 100, "huber_slope": 4.326032456927578, "base_score_multiplier": 2.11447969610265, "early_stopping": 120, "sizes": [155, 385]}}
+STOCK NUMBER: 193 
+{"STOCK": 193, "best_mae": 4.735541682699906, "params": {"n_time_bins": 2, "n_est_bt": 10, "max_depth_bt": 4, "n_est_rt": 2700, "max_depth_rt": 3, "min_child_weight": 90, "huber_slope": 5.434815645188494, "base_score_multiplier": 1.7152335745200191, "early_stopping": 150, "sizes": [365, 175]}}
+STOCK NUMBER: 194 
+{"STOCK": 194, "best_mae": 7.822056769936448, "params": {"n_time_bins": 3, "n_est_bt": 12, "max_depth_bt": 8, "n_est_rt": 1500, "max_depth_rt": 7, "min_child_weight": 110, "huber_slope": 7.731240571635669, "base_score_multiplier": 0.8344087103652592, "early_stopping": 30, "sizes": [360, 85, 95]}}
+STOCK NUMBER: 195 
+{"STOCK": 195, "best_mae": 5.3870826289044444, "params": {"n_time_bins": 2, "n_est_bt": 56, "max_depth_bt": 6, "n_est_rt": 700, "max_depth_rt": 4, "min_child_weight": 20, "huber_slope": 5.1021731312892245, "base_score_multiplier": 1.6979596576049705, "early_stopping": 50, "sizes": [90, 450]}}
+STOCK NUMBER: 196 
+{"STOCK": 196, "best_mae": 6.4958374630896065, "params": {"n_time_bins": 3, "n_est_bt": 40, "max_depth_bt": 5, "n_est_rt": 5000, "max_depth_rt": 9, "min_child_weight": 80, "huber_slope": 9.576105502368213, "base_score_multiplier": 1.7127126369037997, "early_stopping": 120, "sizes": [440, 60, 40]}}
+STOCK NUMBER: 197 
+{"STOCK": 197, "best_mae": 7.367265301635626, "params": {"n_time_bins": 2, "n_est_bt": 19, "max_depth_bt": 8, "n_est_rt": 4100, "max_depth_rt": 3, "min_child_weight": 130, "huber_slope": 9.52879498013226, "base_score_multiplier": 0.4313937380410297, "early_stopping": 100, "sizes": [510, 30]}}
+STOCK NUMBER: 198 
+{"STOCK": 198, "best_mae": 4.98973924908988, "params": {"n_time_bins": 2, "n_est_bt": 16, "max_depth_bt": 5, "n_est_rt": 3250, "max_depth_rt": 3, "min_child_weight": 150, "huber_slope": 4.064808082272106, "base_score_multiplier": 0.6114062204076363, "early_stopping": 90, "sizes": [355, 185]}}
