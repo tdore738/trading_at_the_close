@@ -12,3 +12,7 @@ STOCK NUMBER: 13
 {"timestamp": "2026-03-07 13:50:02", "best_mae": 6.755483429106361, "params": {"n_time_bins": 2, "n_est_bt": 39, "max_depth_bt": 8, "n_est_rt": 3450, "max_depth_rt": 3, "min_child_weight": 20, "huber_slope": 6.65043869157703, "base_score_multiplier": 2.818696283934091, "early_stopping": 70, "sizes": [500, 40]}}
 STOCK NUMBER: 13 
 {"timestamp": "2026-03-07 14:07:02", "best_mae": 5.773167387520361, "params": {"n_time_bins": 4, "n_est_bt": 59, "max_depth_bt": 5, "n_est_rt": 3100, "max_depth_rt": 3, "min_child_weight": 20, "huber_slope": 9.321246322523683, "base_score_multiplier": 0.22473786302219123, "early_stopping": 120, "sizes": [395, 60, 40, 45]}}
+STOCK NUMBER: 13 
+{"timestamp": "2026-03-14 11:43:52", "best_MSE": 57.962216021044256, "params": {"n_time_bins": 2, "n_est_bt": 42, "max_depth_bt": 8, "n_est_rt": 4000, "max_depth_rt": 3, "min_child_weight": 30, "huber_slope": 5.752116311859864, "base_score_multiplier": 2.0668057968765003, "early_stopping": 80, "sizes": [145, 395]}}
+STOCK NUMBER: 31 
+{"timestamp": "2026-03-14 11:59:40", "best_MSE": 1336.0870556676828, "params": {"n_time_bins": 2, "n_est_bt": 54, "max_depth_bt": 5, "n_est_rt": 1950, "max_depth_rt": 7, "min_child_weight": 20, "huber_slope": 8.080302385892768, "base_score_multiplier": 1.2593119249835871, "early_stopping": 20, "sizes": [500, 40]}}
